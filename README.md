@@ -108,4 +108,5 @@ If it doesn't appear immediately, try **Reload Themes** or restart Discord.
 <img width="1366" height="768" alt="Roxy" src="https://github.com/user-attachments/assets/32d315ab-8e3e-4d8e-b930-728fe2283d9f" />
 
 # Eris Theme
-<img width="1366" height="768" alt="Eris" src="https://github.com/user-attachments/assets/080cfcf2-0238-44af-b1fa-e21ca1925f9d" />
+<img width="1366" height="768" alt="ErisTheMadDog" src="https://github.com/user-attachments/assets/13fa11c2-6e9d-49a2-a1a1-b0de6bd54c8d" />
+
